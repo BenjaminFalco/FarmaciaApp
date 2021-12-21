@@ -53,7 +53,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
 //-36.60966132343415, -72.10072442691968
         LatLng FarmaciaAhumada= new LatLng(-36.60966132343415,-72.10072442691968);
-        mMap.addMarker(new MarkerOptions().position(FarmaciaAhumada).title("FarmaciaAhumada, LUNES A VIERNES DE 09:00 A 18:00\""));
+        mMap.addMarker(new MarkerOptions().position(FarmaciaAhumada).title("Farmacia Ahumada, LUNES A VIERNES DE 09:00 A 18:00\""));
         //-36.609046028105446, -72.101773339236
         LatLng FarmaciaCrusVerde= new LatLng(-36.609046028105446,-72.101773339236);
         mMap.addMarker(new MarkerOptions().position(FarmaciaCrusVerde).title("FarmaciaCrusVerde, LUNES A VIERNES DE 09:00 A 18:00"));
