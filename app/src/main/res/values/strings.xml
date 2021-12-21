@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FarmaciaApp</string>
+    <string name="str_email_login">Introduce tu email</string>
+    <string name="str_password_login">Introduce tu password</string>
+    <string name="btn_acceder_login">Acceder</string>
+    <string name="olvide_la_contrase_a">Olvide la contraseña</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
