@@ -59,5 +59,4 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.addMarker(new MarkerOptions().position(FarmaciaCrusVerde).title("FarmaciaCrusVerde, LUNES A VIERNES DE 09:00 A 18:00"));
     }
 
-
 }
